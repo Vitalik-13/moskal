@@ -52,8 +52,8 @@
 .button{
     width: 205px;
     height: 54px;
-    background: linear-gradient(115.11deg, #F32C6D 10.12%, #CB1D95 100.01%);
-    border-radius: 9px;
+    background: linear-gradient(115.11deg, #FFBC2A 16.38%, #FF4F39 95.45%);
+    border-radius: 250px;
     text-align: center;
     margin-left: 159px;
     margin-top: 15px;
@@ -115,7 +115,7 @@ nav{
     height: 54px;
 }
 .more-button{
-    background-color: #77B2D3;
+    background: linear-gradient(115.11deg, #FFBC2A 16.38%, #FF4F39 95.45%);
     text-align: center;
   
     padding-left: 30px;
@@ -154,7 +154,7 @@ nav{
     margin-top: 35px;
 }
 .gradietn{
-    background: linear-gradient(115.11deg, #F32C6D 10.12%, #CB1D95 100.01%);
+    background: linear-gradient(115.11deg, #FFBC2A 16.38%, #FF4F39 95.45%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -218,7 +218,7 @@ font-family: 'Manrope';
 }
 
 .bird{
-    background-image:  url(images/Vector.png);
+    background-image:  url(images/Vector-orange.png);
     background-repeat: no-repeat;
     background-position: 0 5px;
     padding: 5px 22px;
@@ -256,7 +256,7 @@ font-family: 'Manrope';
     font-weight: 800;
     line-height: 24px;
     font-family: 'Manrope';
-    background: linear-gradient(115.11deg, #F32C6D 10.12%, #CB1D95 100.01%);
+    background: linear-gradient(115.11deg, #FFBC2A 16.38%, #FF4F39 95.45%);
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
 background-clip: text;
@@ -271,8 +271,8 @@ background-clip: text;
     width: 195px;
     height: 54px;
     margin-top: 21px;
-    background: linear-gradient(115.11deg, #F32C6D 10.12%, #CB1D95 100.01%);
-    border-radius: 9px;
+    background: linear-gradient(115.11deg, #FFBC2A 16.38%, #FF4F39 95.45%);
+    border-radius: 250px;
     border: none;
     padding: 2px;
     text-align: center;
@@ -389,7 +389,7 @@ label::before{
     display: none;
 }
  input[type="checkbox"]:checked+label::before{
-    background: linear-gradient(115.11deg, #F32C6D 10.12%, #CB1D95 100.01%);
+    background: linear-gradient(115.11deg, #FFBC2A 16.38%, #FF4F39 95.45%);
    
 }
 
@@ -397,8 +397,8 @@ label::before{
     width: 195px;
     height: 54px;
     margin-top: 21px;
-    background: linear-gradient(115.11deg, #F32C6D 10.12%, #CB1D95 100.01%);
-    border-radius: 9px;
+    background: linear-gradient(115.11deg, #FFBC2A 16.38%, #FF4F39 95.45%);
+    border-radius: 250px;
     border: none;
     text-align: center;
     font-family: 'Manrope';
@@ -602,7 +602,7 @@ line-height: 36px;
     font-weight: 600;
 }
 .new-stage a:hover{
-    background-color: #CB1D95;
+    background-color: #cb5a1d;
     color: white;
 }
 .fotter{
@@ -619,5 +619,3 @@ line-height: 36px;
     font-size: 14px;
     line-height: 36px;
 }
-
-    
