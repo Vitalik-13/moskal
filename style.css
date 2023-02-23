@@ -15,8 +15,8 @@
 .conteiner{
    margin: 0 auto;
     display: flex;
-    width: 100%; 
-    max-width:1400px ; 
+     
+   width:1400px ; 
    
    
 }
@@ -576,6 +576,7 @@ line-height: 36px;
     width: 100%;
     background-color: #333333;
     height: 41px;
+  
     color: white;
     text-align: center;
     padding-top: 4px;
